@@ -12,3 +12,14 @@
   padding: 10px 0;
 
 }
+
+.table tbody tr td, .table tbody th td {
+  white-space: normal;
+}
+
+.form-horizontal{
+  .form-group{
+    display: flex;
+    align-items: center;
+  }
+}

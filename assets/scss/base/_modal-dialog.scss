@@ -1,0 +1,31 @@
+
+@media (min-width: 992px){
+  .photo-editor {
+    max-width: 992px;
+  }
+}
+
+
+@media (min-width: 992px){
+  .theme-editor {
+    max-width: 992px;
+  }
+  .questionVlt{
+    max-width: 1150px;
+  }
+  .mod-evaluation{
+    max-width: 1000px;
+  }
+}
+
+
+bs-modal-container{
+  .modal-header{
+    padding: 0.6rem 1rem;
+    .modal-title {
+      margin-bottom: 0;
+      font-size: 1rem;
+      line-height: 1.5;
+    }
+  }
+}
